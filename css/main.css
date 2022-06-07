@@ -519,3 +519,9 @@ main {
 
 }
 
+/* agregando animacion para el desafio */
+
+#menu ul li a:hover {
+    color: aqua;
+    transform: scale(1.5, 1.5);
+}
